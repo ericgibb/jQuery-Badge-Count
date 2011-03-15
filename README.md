@@ -1,21 +1,21 @@
 **Load The JS**
-<script src="jquery.js" type="text/javascript"></script>
+`<script src="jquery.js" type="text/javascript"></script>
 <script src="count.js" type="text/javascript"></script>
-
+`
 **Initialize The JS**
-<script>
+`<script>
 jQuery(document).ready(function($) {
   $('.box').count();
 });
-</script>
+</script>`
 
 **Add CSS**
-<style>
+`<style>
 div.box{
 position:relative; /* VERY IMPORTANT*/
 }
-</style>
+</style>`
 
 **Add Some Markup**
-<div class="box" count="398"><img src="email_folder.jpg"></div>
-<div class="box" count="706"><img src="text_messages.jpg"></div>
+`<div class="box" count="398"><img src="email_folder.jpg"></div>
+<div class="box" count="706"><img src="text_messages.jpg"></div>`
