@@ -1,7 +1,6 @@
 **Load The JS**
 `<script src="jquery.js" type="text/javascript"></script>
-<script src="count.js" type="text/javascript"></script>
-`
+<script src="count.js" type="text/javascript"></script>`
 **Initialize The JS**
 `<script>
 jQuery(document).ready(function($) {
